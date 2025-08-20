@@ -1,4 +1,4 @@
-# Template of empty project
+# Template of empty project 
 
 To understand the Akka concepts that are the basis for this example, see [Development Process](https://doc.akka.io/concepts/development-process.html) in the documentation.
 
